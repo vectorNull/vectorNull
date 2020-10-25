@@ -53,3 +53,18 @@ I'm a huge backend buff and have a passion for writing server-side code! I love 
 I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I or my team builds will give them some peace of mind. With the creativity and cunning of malicious hackers on the rise as new technologies are presented to developers, I'm a firm believer that true privacy and security begins with code. It represents one of the biggest single point of failure in the security stack of any application. Efficient, simple, and secure code is good code.
 
 I write at [Prominent Code](https://prominentcode.com) where you will find posts on APIs, coding, and web security issues. I also maintain a [portfolio](https://prominentcode.com/portfolio) on my site if you interested in seeing what I've been working on.
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+I'm also available via email: jose.rodriguez76@protonmail.com
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/VectorNull1
+[2]: https://www.linkedin.com/in/joserodriguezwebsec/
