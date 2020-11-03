@@ -26,12 +26,6 @@
 ![](https://img.shields.io/badge/security-JSONWebTokens-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-OAuth-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 
-<p align="center">
-  <img width="320" height="132" src="https://user-images.githubusercontent.com/50179896/98043803-b1eb5c80-1dda-11eb-8114-0cfd2ae9360a.png">
-  <img width="320" height="132" src="https://user-images.githubusercontent.com/50179896/98044303-82891f80-1ddb-11eb-8351-901713efcc26.png">
-  <img width="300" height="132" src="https://user-images.githubusercontent.com/50179896/98044303-82891f80-1ddb-11eb-8351-901713efcc26.png>
-</p>
-
 
 
 ------
