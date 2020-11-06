@@ -53,7 +53,7 @@ I write at [Prominent Code](https://prominentcode.com) where you will find posts
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-I'm also available via email: jose.rodriguez76@protonmail.com
+I'm also available via email: jose.rodriguez@prominentcode.com
 
 <!-- Icons -->
 
@@ -63,4 +63,4 @@ I'm also available via email: jose.rodriguez76@protonmail.com
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/VectorNull1
-[2]: https://www.linkedin.com/in/joserodriguezwebsec/
+[2]: https://www.linkedin.com/in/prominentcode/
