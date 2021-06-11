@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/security-JSONWebTokens-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-OAuth-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-Metasploit-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-Vulnerability Scanning-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
+![](https://img.shields.io/badge/security-Vulnerability&nbsp;Scanning-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-Nmap-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-Penetration Testing-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-Protocol Analysis-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
