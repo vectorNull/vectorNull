@@ -25,6 +25,11 @@
 ![](https://img.shields.io/badge/security-OwaspAPITop10-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-JSONWebTokens-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 ![](https://img.shields.io/badge/security-OAuth-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
+![](https://img.shields.io/badge/security-Metasploit-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
+![](https://img.shields.io/badge/security-Vulnerability Scanning-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
+![](https://img.shields.io/badge/security-Nmap-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
+![](https://img.shields.io/badge/security-Penetration Testing-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
+![](https://img.shields.io/badge/security-Protocol Analysis-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
 <p align="center"
 ![m_react](https://user-images.githubusercontent.com/50179896/98045989-3be8f480-1dde-11eb-9e13-76bef8d3b405.png)
 ![postman-logo+text-320x132](https://user-images.githubusercontent.com/50179896/98046512-2fb16700-1ddf-11eb-86ec-1505b2af773e.png)
@@ -35,10 +40,9 @@
 My name is Jose (aka. vectorNull) and I'm a Web/API Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+ and am working on eLearnSecurity's WPT certification. Here's a short list of my skills:
 
 * Web Application Security / OWASP Top 10
-* Virtualization / Containers (Docker - Vagrant)
+* Network Security / Pentesting
 * Vanilla Javascript
 * Python / Django
-* APIs (I'm actually somewhat obsessed with these)
 * Node.js (Love the backend stuff!!) 
 * Mongo/Express/React/Node (MERN)
 * JamStack
@@ -48,12 +52,12 @@ I'm a huge backend buff and have a passion for writing server-side code! I love 
 
 I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I or my team builds will give them some peace of mind. With the creativity and cunning of malicious hackers on the rise as new technologies are presented to developers, I'm a firm believer that true privacy and security begins with code. It represents one of the biggest single point of failure in the security stack of any application. Efficient, simple, and secure code is good code.
 
-I write at [Prominent Code](https://prominentcode.com) where you will find posts on APIs, coding, and web security issues. I also maintain a [portfolio](https://prominentcode.com/portfolio) on my site if you interested in seeing what I've been working on.
+I write at [VectorNull Security](https://vectornullsec.com) where you will find posts on coding, and web/network security issues. I also maintain a [portfolio](https://vectornullsec.com/portfolio) on my site if you interested in seeing what I've been working on.
 
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-I'm also available via email: jose.rodriguez@prominentcode.com
+I'm also available via email: jose@vectornullsec.com
 
 <!-- Icons -->
 
