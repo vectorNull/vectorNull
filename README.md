@@ -37,7 +37,7 @@
 </p>
 ------
 
-My name is Jose (aka. vectorNull) and I'm a Web/API Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+ and am working on eLearnSecurity's WPT certification. Here's a short list of my skills:
+My name is Jose (aka. vectorNull) and I'm a Web/API Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
 
 * Web Application Security / OWASP Top 10
 * Network Security / Pentesting
