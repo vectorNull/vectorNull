@@ -57,7 +57,7 @@ I write at [Prominent Code](https://prominentcode.com) where you will find posts
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-I'm also available via email: jose@vectornullsec.com
+I'm also available via email: jose.rodriguez@prominentcode.com
 
 <!-- Icons -->
 
