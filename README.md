@@ -39,8 +39,8 @@
 
 My name is Jose (aka. vectorNull) and I'm a Backend Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
 
-* Javascirpt
-* NodeJS / Express / NestJS
+* JavaScript / TypeScript
+* NodeJS / Express 
 * Java (learning it now)
 * Microservice Architecture / Distributed Systems
 * Docker
