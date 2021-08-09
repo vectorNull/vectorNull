@@ -41,7 +41,7 @@ My name is Jose (aka. vectorNull) and I'm a Backend Developer and Security Resea
 
 * JavaScript / TypeScript
 * NodeJS / Express 
-* Java (learning it now)
+* GoLang (learning it now)
 * Microservice Architecture / Distributed Systems
 * Docker
 * Network Security / Penetration testing
