@@ -44,6 +44,7 @@ My name is Jose (aka. vectorNull) and I'm a Backend Developer and Security Resea
 * GoLang (learning it now)
 * Microservice Architecture / Distributed Systems
 * Docker
+* Kubernetes
 * Network Security / Penetration testing
 * Web Application Security / OWASP Top 10
 
