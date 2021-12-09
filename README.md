@@ -41,7 +41,8 @@ My name is Jose (aka. vectorNull) and I'm a Backend Developer and Security Resea
 
 * JavaScript / TypeScript
 * NodeJS / Express 
-* GoLang (learning it now)
+* Apex
+* Lightning Web Components / Aura Components (Salesforce)
 * Microservice Architecture / Distributed Systems
 * Docker
 * Kubernetes
