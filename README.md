@@ -2,39 +2,23 @@
 <img src="https://user-images.githubusercontent.com/50179896/156867829-40806419-1dd5-43c9-abef-96254c9abbea.png">
 </p>
 
-------
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=<jose>&logoColor=white&color=99ffff)
-![](https://img.shields.io/badge/architecture-eventDriven-informational?style=flat&logo=<jose>&logoColor=white&color=99ffff)
-![](https://img.shields.io/badge/architecture-microservice-informational?style=flat&logo=<jose>&logoColor=white&color=99ffff)
+---
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<jose>&logoColor=white&color=4d4dff)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<jose>&logoColor=white&color=4d4dff)
-![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=<jose>&logoColor=white&color=ff471a)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=<jose>&logoColor=white&color=4dff4d)
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<jose>&logoColor=white&color=4dff4d)
-![](https://img.shields.io/badge/shell-Bash-informational?style=flat&logo=<jose>&logoColor=white&color=4dff4d)
-![](https://img.shields.io/badge/cloud-DigitalOcean-informational?style=flat&logo=<jose>&logoColor=white&color=0000ff)
-![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=<jose>&logoColor=white&color=0000ff)
-![](https://img.shields.io/badge/framework-MERN-informational?style=flat&logo=<jose>&logoColor=white&color=d9ffb3)
-![](https://img.shields.io/badge/framework-React-informational?style=flat&logo=<jose>&logoColor=white&color=d9ffb3)
-![](https://img.shields.io/badge/framework-Express-informational?style=flat&logo=<jose>&logoColor=white&color=d9ffb3)
-![](https://img.shields.io/badge/framework-Django-informational?style=flat&logo=<jose>&logoColor=white&color=d9ffb3)
-![](https://img.shields.io/badge/database-Postgresql-informational?style=flat&logo=<jose>&logoColor=white&color=ff0000)
-![](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=<jose>&logoColor=white&color=ff0000)
-![](https://img.shields.io/badge/security-OwaspTop10-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-OwaspAPITop10-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-JSONWebTokens-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-OAuth-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-Metasploit-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-Vulnerability&nbsp;Scanning-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-Nmap-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-Penetration&nbsp;Testing-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-![](https://img.shields.io/badge/security-Protocol&nbsp;Analysis-informational?style=flat&logo=<jose>&logoColor=white&color=ff7733)
-<p align="center"
-![m_react](https://user-images.githubusercontent.com/50179896/98045989-3be8f480-1dde-11eb-9e13-76bef8d3b405.png)
-![postman-logo+text-320x132](https://user-images.githubusercontent.com/50179896/98046512-2fb16700-1ddf-11eb-86ec-1505b2af773e.png)
-![m_node-express](https://user-images.githubusercontent.com/50179896/98046769-a2badd80-1ddf-11eb-9fc3-888aa9ac6859.png)
+<p align="center">
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/cloud-AWS-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/framework-React-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/framework-Redux-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/framework-Express-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/database-MongoDB-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/security-Penetration&nbsp;Testing-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
+<img src="https://img.shields.io/badge/security-Protocol&nbsp;Analysis-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
 </p>
+
+---
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
