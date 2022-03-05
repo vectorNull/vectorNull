@@ -1,5 +1,5 @@
 <p align="center">
-<img width="890" height-"600" src="https://user-images.githubusercontent.com/50179896/124329164-d5200480-db3f-11eb-871a-f5e058a739dd.PNG">
+<img src="https://user-images.githubusercontent.com/50179896/156867829-40806419-1dd5-43c9-abef-96254c9abbea.png">
 </p>
 
 ------
@@ -35,11 +35,13 @@
 ![postman-logo+text-320x132](https://user-images.githubusercontent.com/50179896/98046512-2fb16700-1ddf-11eb-86ec-1505b2af773e.png)
 ![m_node-express](https://user-images.githubusercontent.com/50179896/98046769-a2badd80-1ddf-11eb-9fc3-888aa9ac6859.png)
 </p>
-------
 
-My name is Abdul (aka. vectorNull) and I'm a Backend Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
+# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* JavaScript / TypeScript
+My name is Abdul (aka. vectorNull) and I'm a Full-Stack Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
+
+* JavaScript
+* React / Redux
 * NodeJS / Express 
 * Apex
 * Lightning Web Components / Aura Components (Salesforce)
@@ -55,8 +57,9 @@ I not only like writing code for efficiency and performance, but also with secur
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
-I'm also available via email: jose.rodriguez@prominentcode.com
+[LinkedIn Profile][2]
+
+abdul_ghaffar@prominentcode.com
 
 <!-- Icons -->
 
