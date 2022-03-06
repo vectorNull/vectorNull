@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50179896/156867829-40806419-1dd5-43c9-abef-96254c9abbea.png">
+<img src="https://user-images.githubusercontent.com/50179896/156909794-34585c25-43b6-4165-a05f-3cf56aaf8c0e.png">
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Abdul (aka. vectorNull) and I'm a Full-Stack Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
+My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a Full-Stack Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
 
 * JavaScript
 * React / Redux
@@ -43,7 +43,7 @@ I not only like writing code for efficiency and performance, but also with secur
 
 [LinkedIn Profile][2]
 
-abdul_ghaffar@prominentcode.com
+jose.rodriguez@prominentcode.com
 
 <!-- Icons -->
 
