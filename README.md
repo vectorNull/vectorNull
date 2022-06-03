@@ -3,8 +3,10 @@
 </p>
 
 ---
+Check out my [Portfolio][1] !!
 
-<p align="center">
+And you can also get more info about me on my [LinkedIn Profile][2]
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
@@ -16,32 +18,29 @@
 <img src="https://img.shields.io/badge/database-MongoDB-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/security-Penetration&nbsp;Testing-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/security-Protocol&nbsp;Analysis-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-</p>
+</p> -->
 
 ---
 
-# Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a Full-Stack Developer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
+My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a React/Redux Develoer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
 
 * JavaScript
 * React / Redux
 * NodeJS / Express 
-* Apex
-* Lightning Web Components / Aura Components (Salesforce)
 * Microservice Architecture / Distributed Systems
 * Docker
 * Kubernetes
 * Network Security / Penetration testing
 * Web Application Security / OWASP Top 10
 
-I'm a huge backend buff and have a passion for writing server-side code! I love my APIs and researching API security. Most recently I have ventured into the quirky world of microservices.
+I'm a huge frontend buff and have a passion for writing React code! 
 
 I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I or my team builds will give them some peace of mind. With the creativity and cunning of malicious hackers on the rise as new technologies are presented to developers, I'm a firm believer that true privacy and security begins with code. It represents one of the biggest single point of failure in the security stack of any application. Efficient, simple, and secure code is good code.
 
 <!-- Actual text -->
 
-[LinkedIn Profile][2]
+
+
 
 jose.rodriguez@prominentcode.com
 
@@ -52,5 +51,5 @@ jose.rodriguez@prominentcode.com
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/VectorNull1
+[1]: https://vectornull.github.io/
 [2]: https://www.linkedin.com/in/prominentcode/
