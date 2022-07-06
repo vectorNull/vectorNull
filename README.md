@@ -24,6 +24,7 @@ And you can also get more info about me on my [LinkedIn Profile][2]
 
 My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a React/Redux Develoer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
 
+* .Net 6 / C# 10
 * JavaScript
 * React / Redux
 * NodeJS / Express 
