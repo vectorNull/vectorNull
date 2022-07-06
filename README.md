@@ -22,7 +22,11 @@ And you can also get more info about me on my [LinkedIn Profile][2]
 
 ---
 
-My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a Full-Stack Develoer and Security Researcher.  I'm a graduate of General Assembly's Software Engineering Immersive program but have been around the tech world for many years. I have my CompTIA Security+, eLearnSecurity's eJPT and am working on eLearnSecurity's WAPT certification. Here's a short list of my skills:
+My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a Full-Stack Developer and Security Researcher. 
+
+I'm a huge Backend development fanboy and have a passion for designing and engineering .Net/NodeJS APIs and Microservices! 
+
+Here's a short list of my skills:
 
 * .Net 6 / C# 10
 * JavaScript
@@ -34,9 +38,7 @@ My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a Full-St
 * Network Security / Penetration testing
 * Web Application Security / OWASP Top 10
 
-I'm a huge Backend buff and have a passion for writing .Net APIs and Microservices! 
-
-I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I or my team builds will give them some peace of mind. With the creativity and cunning of malicious hackers on the rise as new technologies are presented to developers, I'm a firm believer that true privacy and security begins with code. It represents one of the biggest single point of failure in the security stack of any application. Efficient, simple, and secure code is good code.
+I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I and my team builds will give them some peace of mind. Efficient, simple, and secure code is good code.
 
 <!-- Actual text -->
 
