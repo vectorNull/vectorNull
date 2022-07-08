@@ -28,11 +28,11 @@ I'm a huge Backend development fanboy and have a passion for designing and engin
 
 Here's a short list of my skills:
 
-* .Net 6 / C# 10
-* JavaScript
-* React / Redux
-* NodeJS / Express 
+* API Design and Development
 * Microservice Architecture / Distributed Systems
+* .Net 6 / C# 10
+* NodeJS / Express / JavaScript
+* React / Redux
 * Docker
 * Kubernetes
 * Network Security / Penetration testing
