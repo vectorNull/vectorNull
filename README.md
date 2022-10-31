@@ -1,11 +1,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/50179896/156909794-34585c25-43b6-4165-a05f-3cf56aaf8c0e.png">
 </p>
-
----
-Check out my [Portfolio][1] !!
-
-And you can also get more info about me on my [LinkedIn Profile][2]
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
@@ -22,11 +17,9 @@ And you can also get more info about me on my [LinkedIn Profile][2]
 
 ---
 
-My name is Jose (many people call me Joseph) (aka. vectorNull) and I'm a Full-Stack Developer and Security Researcher. 
+## Backend Developer with [CompuGroup Medical US](https://www.cgm.com/usa_en)
 
-I'm a huge Backend development fanboy and have a passion for designing and engineering .Net/NodeJS APIs and Microservices! 
-
-Here's a short list of my skills:
+### Skills:
 
 * API Design and Development
 * Microservice Architecture / Distributed Systems
@@ -35,10 +28,16 @@ Here's a short list of my skills:
 * React / Redux
 * Docker
 * Kubernetes
+* AWS DevOps
+* Postman / Newman
 * Network Security / Penetration testing
 * Web Application Security / OWASP Top 10
 
 I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I and my team builds will give them some peace of mind. Efficient, simple, and secure code is good code.
+
+[Portfolio][1] 
+
+[LinkedIn Profile][2]
 
 <!-- Actual text -->
 
