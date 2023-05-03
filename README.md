@@ -35,8 +35,6 @@
 
 I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I and my team builds will give them some peace of mind. Efficient, simple, and secure code is good code.
 
-[Portfolio][1] 
-
 [LinkedIn Profile][2]
 
 <!-- Actual text -->
