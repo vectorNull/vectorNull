@@ -17,8 +17,6 @@
 
 ---
 
-## Backend Developer with [CompuGroup Medical US](https://www.cgm.com/usa_en)
-
 ### Skills:
 
 * API Design and Development
