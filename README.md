@@ -40,7 +40,7 @@ I not only like writing code for efficiency and performance, but also with secur
 
 
 
-jose.rodriguez@prominentcode.com
+jose.rodriguez76@protonmail.com
 
 <!-- Icons -->
 
