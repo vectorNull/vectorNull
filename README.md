@@ -1,53 +1,17 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/50179896/156909794-34585c25-43b6-4165-a05f-3cf56aaf8c0e.png">
-</p>
-<!-- <p align="center">
-<img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/cloud-AWS-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/framework-React-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/framework-Redux-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/framework-Express-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/database-MongoDB-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/security-Penetration&nbsp;Testing-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-<img src="https://img.shields.io/badge/security-Protocol&nbsp;Analysis-informational?style=for-the-badge&logo=<jose>&logoColor=white&color=black">
-</p> -->
+### About Me
 
----
+👋 Hey, I'm Jose! Thanks for visiting.
 
-### Skills:
+![banner](https://github.com/vectorNull/vectorNull/assets/50179896/afc1ef6a-7f2f-4534-b491-5c1b9236560b)
 
-* API Design and Development
-* Microservice Architecture / Distributed Systems
-* .Net 6 / C# 10
-* NodeJS / Express / JavaScript
-* React / Redux
-* Docker
-* Kubernetes
-* AWS DevOps
-* Postman / Newman
-* Network Security / Penetration testing
-* Web Application Security / OWASP Top 10
+I'm a passionate software engineer with a focus on crafting robust APIs and microservices. My tech toolbox includes:
 
-I not only like writing code for efficiency and performance, but also with security and simplicity in mind. I want to know that users can trust that what I and my team builds will give them some peace of mind. Efficient, simple, and secure code is good code.
+- **API Development & Design:** I love architecting clean, efficient APIs that solve real-world problems and enhance user experiences.
+- **ASP.NET & Node.js:** Proficient in ASP.NET and Node.js, I'm dedicated to building scalable, high-performance applications.
+- **Microservices:** I believe in the power of microservices to create flexible, maintainable systems.
+- **AWS Infrastructure:** Experienced in AWS services, I enjoy designing and deploying cloud-native solutions.
+- **Kubernetes:** I'm all about container orchestration with Kubernetes for scalability and reliability.
+- **Postman:** I use Postman for API testing, documentation, and collaboration to ensure quality.
+- **API Security:** Ensuring API security is a top priority; I'm well-versed in best practices and security mechanisms.
 
-[LinkedIn Profile][2]
-
-<!-- Actual text -->
-
-
-
-
-jose.rodriguez76@protonmail.com
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://vectornull.github.io/
-[2]: https://www.linkedin.com/in/prominentcode/
+Let's connect and collaborate on exciting projects. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/prominentcode/) or [Twitter](https://twitter.com/JoseERMarrero). Together, we can build secure, scalable, and efficient software solutions. 💻🚀
