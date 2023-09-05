@@ -2,7 +2,7 @@
 
 👋 Hey, I'm Jose! Thanks for visiting.
 
-![banner](https://github.com/vectorNull/vectorNull/assets/50179896/afc1ef6a-7f2f-4534-b491-5c1b9236560b)
+![banner](https://github.com/vectorNull/vectorNull/assets/50179896/47894947-0bbb-4aab-b605-d330cbb14fb5)
 
 I'm a passionate software engineer with a focus on crafting robust APIs and microservices. My tech toolbox includes:
 
