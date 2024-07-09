@@ -2,14 +2,13 @@
 
 👋 Hey, I'm Jose! Thanks for visiting.
 
-![banner](https://github.com/vectorNull/vectorNull/assets/50179896/47894947-0bbb-4aab-b605-d330cbb14fb5)
 
-I'm a passionate software engineer with a focus on crafting robust APIs and microservices. My tech toolbox includes:
+
+I'm a passionate software engineer with a focus on crafting robust APIs. My tech toolbox includes:
 
 - **API Development & Design:** I love architecting clean, efficient APIs that solve real-world problems and enhance user experiences.
 - **.NET & Node.js:** Proficient in ASP.NET and Node.js, I'm dedicated to building scalable, high-performance applications.
 - **React/Redux:** Skilled in crafting responsive and scalable web applications with advanced state management techniques.
-- **Microservices:** I believe in the power of microservices to create flexible, maintainable systems.
 - **AWS Infrastructure:** Experienced in AWS services, I enjoy designing and deploying cloud-native solutions.
 - **Kubernetes:** I'm all about container orchestration with Kubernetes for scalability and reliability.
 - **Postman:** I use Postman for API testing, documentation, and collaboration to ensure quality.
