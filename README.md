@@ -1,17 +1,28 @@
-### About Me
+# 👋 Hey, I'm Jose
 
-👋 Hey, I'm Jose! Thanks for visiting.
+🚀 I'm a .NET backend developer making the leap into DevOps!  
+I've built robust APIs with C# and ASP.NET—and now I'm learning to ship, scale, and secure them using Docker, AWS, CI/CD, and Infrastructure as Code.
 
+---
 
+## 💻 Tech Stack
 
-I'm a passionate software engineer with a focus on crafting robust APIs. My tech toolbox includes:
+**Backend**  
+- C#, ASP.NET Core, Entity Framework, LINQ
 
-- **API Development & Design:** I love architecting clean, efficient APIs that solve real-world problems and enhance user experiences.
-- **.NET & Node.js:** Proficient in ASP.NET and Node.js, I'm dedicated to building scalable, high-performance applications.
-- **React/Redux:** Skilled in crafting responsive and scalable web applications with advanced state management techniques.
-- **AWS Infrastructure:** Experienced in AWS services, I enjoy designing and deploying cloud-native solutions.
-- **Kubernetes:** I'm all about container orchestration with Kubernetes for scalability and reliability.
-- **Postman:** I use Postman for API testing, documentation, and collaboration to ensure quality.
-- **API Security:** Ensuring API security is a top priority; I'm well-versed in best practices and security mechanisms.
+**DevOps Tools (Learning & Using)**  
+- Docker, GitHub Actions, AWS (EC2, S3, IAM), Linux, Bash, Terraform (early stages)
 
-Let's connect and collaborate on exciting projects. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/prominentcode/) or [Twitter](https://twitter.com/JoseERMarrero). Together, we can build secure, scalable, and efficient software solutions. 💻🚀
+**Others**  
+- SQL Server, Postman, Swagger, REST APIs
+
+## 📚 Currently Learning
+
+- AWS Certified Solutions Architect - Associate *(in progress)*
+- Terraform basics + IaC best practices
+- Kubernetes fundamentals
+
+## 🔗 Let's Connect
+
+- 📧 jose.rodriguez@infraforge.dev
+- 💼 [LinkedIn](www.linkedin.com/in/infraforge)
