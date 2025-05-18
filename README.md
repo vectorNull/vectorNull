@@ -25,4 +25,4 @@ I've built robust APIs with C# and ASP.NET—and now I'm learning to ship, scale
 ## 🔗 Let's Connect
 
 - 📧 jose.rodriguez@infraforge.dev
-- 💼 [LinkedIn](www.linkedin.com/in/infraforge)
+- 💼 [LinkedIn](https://linkedin.com/in/infraforge)
